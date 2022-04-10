@@ -11,3 +11,6 @@ On the left side, there are statistics for the current week and also the percent
 On the top right corner, it is the chart showing the number of the registered customer across three weeks. There is also a filter that enables us to filter out campaigns based on customer registration. Each bar of the CPM indicator chart and CTR indicator chart is clickable. It will dive into one campaign and show all the relevant details.
 
 The dashboard is automatically updatable, as long as the data is correctly formatted and week filters are at the right time.
+
+### Retail Customer Segmentation | RFM analysis
+![Dashboard 1](https://user-images.githubusercontent.com/102925575/162605192-8d6555fe-0420-44f8-9b80-6b6bf514c07e.png)
