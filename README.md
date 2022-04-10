@@ -14,3 +14,7 @@ The dashboard is automatically updatable, as long as the data is correctly forma
 
 ### Retail Customer Segmentation | RFM analysis
 ![Dashboard 1](https://user-images.githubusercontent.com/102925575/162605192-8d6555fe-0420-44f8-9b80-6b6bf514c07e.png)
+
+This is a dataset from the #RWFD Real World Fake Data project on Data.world. [Data Source: Retail Transactions](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Retail+Transactions.csv)
+
+And here is my [tableau public profile Link](https://public.tableau.com/app/profile/yiqi.yang8042) in case you want to check out the interactive dashboard.
