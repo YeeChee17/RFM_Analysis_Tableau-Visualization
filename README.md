@@ -13,7 +13,7 @@ On the top right corner, it is the chart showing the number of the registered cu
 The dashboard is automatically updatable, as long as the data is correctly formatted and week filters are at the right time.
 
 ### Retail Customer Segmentation | RFM analysis
-![Dashboard 1](https://user-images.githubusercontent.com/102925575/162605192-8d6555fe-0420-44f8-9b80-6b6bf514c07e.png)
+![RFM Dash](https://user-images.githubusercontent.com/102925575/166171161-7880b4e4-5f08-4f66-b254-fd31f837aaa9.png)
 
 This is a dataset from the #RWFD Real World Fake Data project on Data.world. [Data Source: Retail Transactions](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Retail+Transactions.csv)
 
